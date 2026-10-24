@@ -1,0 +1,10 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: linear-gradient(160deg, #000 0%, #0d0f29 55%, #000 100%) fixed; color: #f2f2f7;
+  font: 17px/1.6 -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif; }
+main { max-width: 680px; margin: 0 auto; padding: 56px 16px 80px; }
+h1 { font: 800 40px/1.15 ui-rounded, -apple-system, sans-serif; margin: 0 0 8px; }
+h2 { font-size: 20px; margin: 36px 0 8px; }
+p, li { color: #c4c8de; }
+a { color: #f3d696; }
+.card { background: rgba(255,255,255,.06); border: 1px solid rgba(255,255,255,.14); border-radius: 22px; padding: 20px 22px; margin-top: 24px; }
+footer { margin-top: 48px; font-size: 14px; color: #8a8fa8; }
